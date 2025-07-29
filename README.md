@@ -67,8 +67,6 @@ Our SQL files power the analytical queries used in BigQuery, including:
 | `deep_diving_retailers.sql` | Sales breakdown by retailer & method |
 | `monthly_sales_per_retailer.sql` | Monthly retailer performance overview |
 
-See [`sql_queries/README.md`](sql_queries/README.md) for details.
-
 ---
 
 ## 📈 Forecasting
